@@ -1,3 +1,10 @@
+/*
+Module: Deferred
+Author: CooMark
+Version: 1.0.0
+Date: 2015-11-27 19:36:10
+*/
+
 function Deferred() {
     this.doneList = [];
     this.failList = [];
